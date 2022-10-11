@@ -1,6 +1,9 @@
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="150" />
+<h1 align="center" style="background: #FFB76B;background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">👋Hi,I am Anshul Soni</h1>
 
-<h1 align="center">Hi,I am Anshul Soni</h1>
-# 💫 About Me:
+
+
+ ## 💫 About Me:
 💬 Ask me about [HTML,CSS,Tailwind css,Bootstrap,JavaScript](HTML,CSS,Tailwind css,Bootstrap,JavaScript)<br><br>📫 How to reach me anshulsoni2022@gmail.com<br><br>🔭 I am currently studying in NOBLE INTERNATIONAL SCHOOL Class- 6<br><br>🌱 I’m currently learning JavaScript(In depth)<br><br>🖥️ All of my projects are available at https://anshulsoni.netlify.app
 
 
