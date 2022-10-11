@@ -1,3 +1,5 @@
+
+<h1 align="center">Hi,I am Anshul Soni</h1>
 # 💫 About Me:
 💬 Ask me about [HTML,CSS,Tailwind css,Bootstrap,JavaScript](HTML,CSS,Tailwind css,Bootstrap,JavaScript)<br><br>📫 How to reach me anshulsoni2022@gmail.com<br><br>🔭 I am currently studying in NOBLE INTERNATIONAL SCHOOL Class- 6<br><br>🌱 I’m currently learning JavaScript(In depth)<br><br>🖥️ All of my projects are available at https://anshulsoni.netlify.app
 
