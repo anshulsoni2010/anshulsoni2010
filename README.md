@@ -1,5 +1,4 @@
  <center>
- <img src="https://media-exp1.licdn.com/dms/image/C5616AQGOmzskmRndsg/profile-displaybackgroundimage-shrink_350_1400/0/1662027372639?e=1671062400&v=beta&t=e6QL6UQO4NL5XpNCDbpt0pBYWnjKZLgznJrFPsfPIfU" height="300">
  <h1 align="center"> 👋Hi,I am Anshul Soni</h1>
  </center>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
