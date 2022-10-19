@@ -1,8 +1,7 @@
  <center>
  <h1 align="center"> 👋Hi,I am Anshul Soni</h1>
  </center>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
-
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="250" />
 
 
 
