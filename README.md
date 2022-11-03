@@ -5,11 +5,12 @@
 
 
 
- ## 💫 About Me:
+ # 💫 About Me:
 💬 Ask me about [HTML,CSS,Tailwind css,Bootstrap,JavaScript](HTML,CSS,Tailwind css,Bootstrap,JavaScript)<br><br>📫 How to reach me anshulsoni2022@gmail.com<br><br>🔭 I am currently studying in NOBLE INTERNATIONAL SCHOOL Class- 6<br><br>🌱 I’m currently learning JavaScript(In depth)<br><br>🖥️ All of my projects are available at https://anshulsoni.netlify.app
 
 
-## 🌐 Socials:
+# 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-soni2010) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19203628/anshul-soni) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnshulSoni2010) 
 
 # 💻 Tech Stack:
@@ -20,8 +21,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshulsoni2010&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulsoni2010&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📝 Contributions
+# 📝 Contributions
 ![snake gif](https://github.com/anshulsoni2010/anshulsoni2010/blob/output/github-contribution-grid-snake.gif)
+
+# My Holopin Badges
+[![@anshulsoni2022's Holopin board](https://holopin.me/anshulsoni2022)](https://holopin.io/@anshulsoni2022)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
