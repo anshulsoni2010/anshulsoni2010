@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟I am Anshul Soni,12 Year old Youngest Web Developer and Graphic Designer.<br><br>💬 Ask me about HTML,CSS,Tailwind css,Bootstrap,JavaScript,Node.Js and Python<br><br>📫 How to reach me anshulsoni2022@gmail.com<br><br>🔭 I am currently studying in NOBLE INTERNATIONAL SCHOOL Class- 6<br><br>🌱 I’m currently learning JavaScript(In depth)<br><br>🖥️ All of my projects are available at https://anshulsoni.tech
+🌟I am Anshul Soni,12 Year old Youngest Web Developer and Graphic Designer.<br><br>💬 Ask me about HTML,CSS,Tailwind css,Bootstrap,JavaScript,Node.Js and Python<br><br>📫 How to reach me anshulsoni2022@gmail.com<br><br>🔭 I am currently studying in NOBLE INTERNATIONAL SCHOOL Grade-7th<br><br>🌱 I’m currently learning Node.js(In depth)<br><br>🖥️ All of my projects are available at https://anshulsoni.tech
 
 
 ## 🌐 Socials:
