@@ -27,4 +27,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=anshulsoni2010&icon=8&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/anshulsoni2010/anshulsoni2010/master/animation/snake.svg)
