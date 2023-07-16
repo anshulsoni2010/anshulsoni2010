@@ -24,7 +24,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=anshulsoni2010&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=anshulsoni2010)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<a href="https://twitter.com/anshulsoni2010" target="blank"><img src="https://img.shields.io/twitter/follow/anshulsoni2010?logo=twitter&style=for-the-badge" alt="anshulsoni2010" /></a> 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -35,4 +35,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=anshulsoni2010&icon=8&color=10)](https://visitcount.itsvg.in)
 
-![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/anshulsoni2010/anshulsoni2010/master/animation/snake.svg)
