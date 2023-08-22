@@ -18,8 +18,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anshulsoni2010&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshulsoni2010&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulsoni2010&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+[![anshulsoni2010's GitHub | Dependencies](https://stats.quine.sh/anshulsoni2010/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anshulsoni2010)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anshulsoni2010&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
