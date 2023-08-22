@@ -26,8 +26,7 @@
 ## 🐦 Latest Tweet
 <a href="https://twitter.com/anshulsoni2010" target="blank"><img src="https://img.shields.io/twitter/follow/anshulsoni2010?logo=twitter&style=for-the-badge" alt="anshulsoni2010" /></a> 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![anshulsoni2010's GitHub | Stats](https://stats.quine.sh/anshulsoni2010/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anshulsoni2010)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anshulsoni2010&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
