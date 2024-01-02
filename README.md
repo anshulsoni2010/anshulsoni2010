@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anshul Soni</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulsoni2010&label=Profile%20views&color=0e75b6&style=flat" alt="anshulsoni2010" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshulsoni2010" alt="anshulsoni2010" /></a> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anshulsoni2010&label=Profile%20views&color=0e75b6&style=flat" alt="anshulsoni2010" /> </p>
+<hr align="center">
 
 # 💫 About Me:
 🌟I am Anshul Soni,12 Year old Youngest Web Developer and Graphic Designer.<br><br>💬 Ask me about HTML,CSS,Tailwind css,Bootstrap,JavaScript,Node.Js and Python<br><br>📫 How to reach me anshulsoni2022@gmail.com<br><br>🔭 I am currently studying in NOBLE INTERNATIONAL SCHOOL Grade-7th<br><br>🌱 I’m currently learning Node.js(In depth)<br><br>🖥️ All of my projects are available at https://anshulsoni.tech
