@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Anshul Soni</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <p align="center"> <a href="https://github.com/anshulsoni2010"><img src="https://github-profile-trophy.vercel.app/?username=anshulsoni2010&row=2&column=5" alt="anshulsoni2010" /></a> </p>
@@ -5,7 +6,7 @@
 <hr align="center">
 
 # 💫 About Me:
-🌟I am Anshul Soni,13 Year old Youngest Web Developer and Graphic Designer.<br><br>💬 Ask me about HTML,CSS,Tailwind css,Bootstrap,JavaScript,Node.Js,react.js, mongodb, firebase,express.js, next.js and Python<br><br>📫 How to reach me anshulsoni2022@gmail.com<br><br>🔭 I am currently studying in NOBLE INTERNATIONAL SCHOOL Grade-7th<br><br>🌱 I’m currently learning Node.js(In depth)<br><br>🖥️ All of my projects are available at https://anshulsoni.in
+🌟I am Anshul Soni,13 Year old Youngest Web Developer and Graphic Designer.<br><br>💬 Ask me about Full Stack Development, UI UX Designing.<br><br>📫 How to reach me anshulsoni2022@gmail.com<br><br>🔭 I am currently studying in NOBLE INTERNATIONAL SCHOOL Grade-7th<br><br>🌱 I’m currently learning Node.js(In depth)<br><br>🖥️ All of my projects are available at https://anshulsoni.in
 
 
 ## 🌐 Socials:
