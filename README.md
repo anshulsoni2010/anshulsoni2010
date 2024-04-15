@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TailwindCSS,ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, Supabase & Firebase and UI UX Designing**
 
-- 📫 How to reach me **anshulsoni.in**
+- 📫 How to reach me **anshulsoni2022@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
