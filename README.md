@@ -1,43 +1,37 @@
 
+  <img src="https://i.imgur.com/Tqqn4WE.png" style="border-radius: 60px;">
 <h1 align="center">Hi 👋, I'm Anshul Soni</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-<p align="center"> <a href="https://github.com/anshulsoni2010"><img src="https://github-profile-trophy.vercel.app/?username=anshulsoni2010&row=2&column=5" alt="anshulsoni2010" /></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anshulsoni2010&label=Profile%20views&color=0e75b6&style=flat" alt="anshulsoni2010" /> </p>
-<hr align="center">
+<h3 align="center">A Youngest MERN Stack Developer From India</h3>
 
-# 💫 About Me:
-🌟I am Anshul Soni,13 Year old Youngest Web Developer and Graphic Designer.<br><br>💬 Ask me about Full Stack Development, UI UX Designing.<br><br>📫 How to reach me anshulsoni2022@gmail.com<br><br>🔭 I am currently studying in NOBLE INTERNATIONAL SCHOOL Grade-7th<br><br>🌱 I’m currently learning Node.js(In depth)<br><br>🖥️ All of my projects are available at https://anshulsoni.in
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshulsoni2010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-soni2010) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anshulsoni2010) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithanshul)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshulsoni2010&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anshulsoni2010&theme=github)
-
-<hr>
-<a href="https://cloud.appwrite.io/card/64647dcdc3c8a1be8531">
-	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64647dcdc3c8a1be8531" alt="Appwrite Cloud Card" />
-</a>
-
-[![An image of @anshulsoni2022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshulsoni2022)](https://holopin.io/@anshulsoni2022)
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=anshulsoni2010&theme=tokyonight&hide_border=false)<br/>
-[![anshulsoni2010's GitHub | Languages Over Time](https://stats.quine.sh/anshulsoni2010/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anshulsoni2010)
-
-
-## 🐦 Latest Tweet
-<a href="https://twitter.com/anshulsoni2010" target="blank"><img src="https://img.shields.io/twitter/follow/anshulsoni2010?logo=twitter&style=for-the-badge" alt="anshulsoni2010" /></a> 
-
-[![anshulsoni2010's GitHub | Stats](https://stats.quine.sh/anshulsoni2010/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anshulsoni2010)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anshulsoni2010&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=anshulsoni2010&icon=8&color=10)](https://visitcount.itsvg.in)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshulsoni2010" alt="anshulsoni2010" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/anshulsoni2010" target="blank"><img src="https://img.shields.io/twitter/follow/anshulsoni2010?logo=twitter&style=for-the-badge" alt="anshulsoni2010" /></a> </p>
+
+- 🔭 I’m currently working on My First Book Which is launching soon [JavaScript Mastery in 100 Days](https://www.instagram.com/reel/C5cnpq9rSH6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+- 🌱 I’m currently going depth in **NodeJS**
+
+- 👯 I’m looking to collaborate on **open source project based on MERN Stack**
+
+- 👨‍💻 All of my projects are available at [https://anshulsoni.in](https://anshulsoni.in)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, TailwindCSS,ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, Supabase & Firebase and UI UX Designing**
+
+- 📫 How to reach me **anshulsoni.in**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/anshulsoni2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshulsoni2010" height="30" width="40" /></a>
+<a href="https://instagram.com/anshulsoni2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshulsoni2010" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshulsoni2010&show_icons=true&locale=en&layout=compact" alt="anshulsoni2010" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshulsoni2010&show_icons=true&locale=en" alt="anshulsoni2010" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshulsoni2010&" alt="anshulsoni2010" /></p>
