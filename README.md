@@ -1,13 +1,16 @@
-
+<div align="center">
   <img src="https://i.imgur.com/Tqqn4WE.png" style="border-radius: 60px;">
-<h1 align="center">Hi 👋, I'm Anshul Soni</h1>
-<h3 align="center">A Youngest MERN Stack Developer From India</h3>
+  <h1>Hi 👋, I'm Anshul Soni</h1>
+  <h3>A Youngest MERN Stack Developer From India</h3>
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=anshulsoni2010&icon=8&color=10)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=anshulsoni2010&icon=8&color=10" alt="visit count"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshulsoni2010" alt="anshulsoni2010" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/anshulsoni2010" target="blank"><img src="https://img.shields.io/twitter/follow/anshulsoni2010?logo=twitter&style=for-the-badge" alt="anshulsoni2010" /></a> </p>
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=anshulsoni2010&column=6&margin-w=15&margin-h=15" alt="github trophies"/>
+</div>
 
 - 🔭 I’m currently working on My First Book Which is launching soon [JavaScript Mastery in 100 Days](https://www.instagram.com/reel/C5cnpq9rSH6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
