@@ -12,7 +12,7 @@
   <img src="https://github-trophies.vercel.app/?username=anshulsoni2010&column=6&margin-w=15&margin-h=15" alt="github trophies"/>
 </div>
 
-<div align="center">
+<div align="left>
   - 🔭 I’m currently working on My First Book Which is launching soon <a href="https://www.instagram.com/reel/C5cnpq9rSH6/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==">JavaScript Mastery in 100 Days</a>
 
   - 🌱 I’m currently going depth in **NodeJS**
@@ -34,7 +34,7 @@
   </p>
 </div>
 
-<div align="center">
+<div align="left">
   <h2>📦 Technologies</h2>
   <p><strong>Frontend</strong>: `HTML` `CSS` `Sass` `Bootstrap` `Tailwind` `ReactJS` `NextJS`</p>
   <p><strong>Backend</strong>: `NodeJS` `Express` `MongoDB` `Postgres` `Postman`</p>
