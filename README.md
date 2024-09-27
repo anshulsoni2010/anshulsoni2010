@@ -26,9 +26,9 @@
   - 📫 How to reach me **anshulsoni2022@gmail.com**
 </div>
 
-<div align="center">
-  <h3 align="center">Connect with me:</h3>
-  <p align="center">
+<div align="left">
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
     <a href="https://twitter.com/anshulsoni2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshulsoni2010" height="30" width="40" /></a>
     <a href="https://instagram.com/anshulsoni2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshulsoni2010" height="30" width="40" /></a>
   </p>
@@ -43,16 +43,6 @@
   <p><strong>Others</strong>: `Figma` `Canva` `Notion` `Bash` `Linux` `Vercel` `Netlify`</p>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshulsoni2010&show_icons=true&locale=en&layout=compact" alt="anshulsoni2010" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshulsoni2010&show_icons=true&locale=en" alt="anshulsoni2010" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulsoni2010&" alt="anshulsoni2010" />
-</div>
+[![An image of @anshulsoni2022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshulsoni2022)](https://holopin.io/@anshulsoni2022)
 
 <h3 align="center">Thanks For Visiting!</h3>
