@@ -36,7 +36,7 @@
 
 <div align="left">
   <h2>📦 Technologies</h2>
-  <p><strong>Frontend</strong>: `HTML` `CSS` `Sass` `Bootstrap` `Tailwind` `ReactJS` `NextJS`</p>
+  <p><strong>Frontend</strong>: ```HTML``` `CSS` `Sass` `Bootstrap` `Tailwind` `ReactJS` `NextJS`</p>
   <p><strong>Backend</strong>: `NodeJS` `Express` `MongoDB` `Postgres` `Postman`</p>
   <p><strong>Backend-As-A-Service</strong>: `Supabase` `Firebase`</p>
   <p><strong>Version Control</strong>: `Git` `GitLab` `GitHub`</p>
